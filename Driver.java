@@ -15,7 +15,7 @@ public class Driver
 		
 		HammingDist hammDist2 = new HammingDist("BOIS", "WEBR");
 		System.out.println("Hello");
-			
+			System.out.println("gitHub");
 		
 		try{
 			hammDist1.read("Mesonet.txt");
